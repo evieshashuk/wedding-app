@@ -5,7 +5,7 @@ html {
 
 h1 {
   font-family: "Poppins", sans-serif;
-  color: white;
+  color: black;
   font-weight: bold;
   text-align: center;
 }
@@ -45,7 +45,7 @@ h4 {
   top: 50%;
   text-align: center;
   font-family: "Raleway", sans-serif;
-  color: darkgrey;
+  color: black;
 }
 .intro {
   text-align: center;

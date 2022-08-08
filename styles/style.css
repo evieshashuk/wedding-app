@@ -9,7 +9,7 @@ h1 {
   font-weight: bold;
   text-align: center;
   background-color: aliceblue;
-  opacity: 0.5;
+  opacity: 0.3;
 }
 
 p {
@@ -52,6 +52,8 @@ h4 {
 .intro {
   text-align: center;
   margin: 0 50px;
+  background-color: aliceblue;
+  opacity: 0.3;
 }
 footer {
   background-color: lightgrey;

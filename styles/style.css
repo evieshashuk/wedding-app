@@ -7,6 +7,7 @@
   h2,
   h3 {
     text-align: center;
+    font-family: "Poppins", sans-serif;
   }
   img {
     max-width: 100%;
@@ -34,10 +35,8 @@ p {
 h2 {
   font-family: "Poppins", sans-serif;
   font-weight: bold;
-  text-align: center;
 }
 
-h3,
 h4,
 h5 {
   font-family: "Poppins", sans-serif;
@@ -96,4 +95,26 @@ footer a:visited {
 }
 .services {
   margin: 50px 0;
+}
+.map-responsive {
+  overflow: hidden;
+  padding-bottom: 56.25%;
+  position: relative;
+  height: 0;
+}
+.map-responsive iframe {
+  left: 0;
+  top: 0;
+  height: 100%;
+  width: 100%;
+  position: absolute;
+}
+
+i {
+  background-color: #fdf2ec;
+  padding: 10px 14px;
+  border-radius: 50%;
+  font-size: 18px;
+  transition: all 100ms ease-in-out;
+  color: #ff9966;
 }
